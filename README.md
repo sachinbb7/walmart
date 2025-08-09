@@ -25,10 +25,6 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Storage**: Save the data in the `data/` folder for easy reference and access.
 
 ### 4. Install Required Libraries and Load Data
-   - **Libraries**: Install necessary Python libraries using:
-     ```bash
-     pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
-     ```
    - **Loading Data**: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
 ### 5. Explore the Data
